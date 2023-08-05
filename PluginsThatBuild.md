@@ -27,5 +27,15 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | MindMeld | MindMeld | Compiles | https://github.com/MarcBoule/MindMeldModular |
 | ML Modules | ML Modules | Compiles | https://github.com/martin-lueders/ML_modules |
 | monome | monome | Compiles | https://github.com/Dewb/monome-rack |
+| NullPath | NullPath | Compiles | https://github.com/alefnull/NullPath |
+| pachde | pachde One | Compiles | https://github.com/Paul-Dempsey/pachde1 |
+| Seaside Modular | Seaside Modular | Compiles | https://github.com/abluenautilus/SeasideModularVCV |
+| SickoCV | SickoCV | Compiles | https://github.com/sickozell/SickoCV |
+| SmartGridMusic | TheAllElectricSmartGrid | Compiles | https://github.com/jvictor0/theallelectricsmartgrid |
+| stoermelder | PackOne | Compiles | https://github.com/stoermelder/vcvrack-packone |
+| SV Modular | DrumKit | Compiles | https://github.com/SVModular/DrumKit |
+| SynthKit | SynthKit | Compiles | https://github.com/jerrysievert/synthkit/ |
+| VCV | Fundamental | Working | https://github.com/VCVRack/Fundamental |
+| Venom | Venom | Compiles | https://github.com/DaveBenham/VenomModules |
 
 I will be updating this table as I need the plugins or have time
