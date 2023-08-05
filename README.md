@@ -32,6 +32,7 @@ If all goes smoothly with Make Run, fix the missing module problem it just compl
     git submodule update --init --recursive
     make dep
     make
+    make install
     cd ../..
     make run
 
