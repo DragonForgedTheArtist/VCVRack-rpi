@@ -24,12 +24,12 @@ Follow the standard build instructions, including building the fundamental plugi
     make
     make run
 
-If all goes smooth with Make Run, fix the missing module problem it just complained about.
+If all goes smoothly with Make Run, fix the missing module problem it just complained about.
 
     cd plugins
     git clone https://github.com/VCVRack/Fundamental.git
     cd Fundamental
-Git submodule update --init --recursive
+    git submodule update --init --recursive
     make dep
     make
     cd ../..
