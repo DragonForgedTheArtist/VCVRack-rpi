@@ -1,0 +1,104 @@
+diff -crB Rack/arch.mk Rack-Arm/arch.mk
+*** Rack/arch.mk	2023-08-05 01:28:43.333988085 -0700
+--- Rack-Arm/arch.mk	2023-08-05 01:29:29.554213750 -0700
+***************
+*** 1,3 ****
+--- 1,6 ----
++ OBJ_FORMAT := elf64-x86-64
++ ARCH_FLAG := i386:x86-64
++ 
+  ifdef CROSS_COMPILE
+  	MACHINE := $(CROSS_COMPILE)
+  else
+***************
+*** 10,18 ****
+--- 13,25 ----
+  else ifneq (,$(findstring arm64-,$(MACHINE)))
+  	ARCH_ARM64 := 1
+  	ARCH_CPU := arm64
++ 	OBJ_FORMAT := elf64-littleaarch64
++ 	ARCH_FLAG := aarch64
+  else ifneq (,$(findstring aarch64-,$(MACHINE)))
+  	ARCH_ARM64 := 1
+  	ARCH_CPU := arm64
++ 	OBJ_FORMAT := elf64-littleaarch64
++ 	ARCH_FLAG := aarch64
+  else
+  $(error Could not determine CPU architecture of $(MACHINE))
+  endif
+diff -crB Rack/compile.mk Rack-Arm/compile.mk
+*** Rack/compile.mk	2023-08-05 01:28:43.337988095 -0700
+--- Rack-Arm/compile.mk	2023-08-05 01:29:29.558213779 -0700
+***************
+*** 97,103 ****
+  build/%.bin.o: %
+  	@mkdir -p $(@D)
+  ifdef ARCH_LIN
+! 	$(OBJCOPY) -I binary -O elf64-x86-64 -B i386:x86-64 --rename-section .data=.rodata,alloc,load,readonly,data,contents $< $@
+  endif
+  ifdef ARCH_WIN
+  	$(OBJCOPY) -I binary -O pe-x86-64 -B i386:x86-64 --rename-section .data=.rodata,alloc,load,readonly,data,contents $< $@
+--- 97,103 ----
+  build/%.bin.o: %
+  	@mkdir -p $(@D)
+  ifdef ARCH_LIN
+! 	$(OBJCOPY) -I binary -O $(OBJ_FORMAT) -B $(ARCH_FLAG) --rename-section .data=.rodata,alloc,load,readonly,data,contents $< $@
+  endif
+  ifdef ARCH_WIN
+  	$(OBJCOPY) -I binary -O pe-x86-64 -B i386:x86-64 --rename-section .data=.rodata,alloc,load,readonly,data,contents $< $@
+diff -crB Rack/dep/Makefile Rack-Arm/dep/Makefile
+*** Rack/dep/Makefile	2023-08-05 01:28:43.337988095 -0700
+--- Rack-Arm/dep/Makefile	2023-08-05 01:29:29.558213779 -0700
+***************
+*** 174,189 ****
+  	$(MAKE) -C speexdsp
+  	$(MAKE) -C speexdsp install
+  
+! libsamplerate-0.1.9:
+! 	$(WGET) "https://github.com/libsndfile/libsamplerate/releases/download/0.1.9/libsamplerate-0.1.9.tar.gz" || $(WGET) "http://www.mega-nerd.com/SRC/libsamplerate-0.1.9.tar.gz"
+! 	$(SHA256) libsamplerate-0.1.9.tar.gz 0a7eb168e2f21353fb6d84da152e4512126f7dc48ccb0be80578c565413444c1
+! 	$(UNTAR) libsamplerate-0.1.9.tar.gz
+! 	rm libsamplerate-0.1.9.tar.gz
+! 
+! $(libsamplerate): | libsamplerate-0.1.9
+! 	cd libsamplerate-0.1.9 && $(CONFIGURE) --disable-fftw --disable-sndfile
+! 	$(MAKE) -C libsamplerate-0.1.9
+! 	$(MAKE) -C libsamplerate-0.1.9 install
+  
+  RTMIDI_FLAGS += --enable-shared=no
+  ifdef ARCH_LIN
+--- 174,190 ----
+  	$(MAKE) -C speexdsp
+  	$(MAKE) -C speexdsp install
+  
+! libsamplerate-0.2.1:
+! 	$(WGET) "https://github.com/libsndfile/libsamplerate/archive/refs/tags/0.2.1.tar.gz" -O libsamplerate-0.2.1.tar.gz 
+! 	$(SHA256) libsamplerate-0.2.1.tar.gz c28dc9fd587f250114d35aab180e41551935e37c84e7641c31d225cda5eb5fab
+! 	$(UNTAR) libsamplerate-0.2.1.tar.gz
+! 	rm libsamplerate-0.2.1.tar.gz
+! 
+! $(libsamplerate): | libsamplerate-0.2.1
+! 	cd libsamplerate-0.2.1 && ./autogen.sh --no-configure
+! 	cd libsamplerate-0.2.1 && $(CONFIGURE) --disable-fftw --disable-sndfile
+! 	$(MAKE) -C libsamplerate-0.2.1
+! 	$(MAKE) -C libsamplerate-0.2.1 install
+  
+  RTMIDI_FLAGS += --enable-shared=no
+  ifdef ARCH_LIN
+***************
+*** 264,270 ****
+  
+  # Helpers
+  
+! src: glew-2.1.0 glfw jansson-2.12 libsamplerate-0.1.9 openssl-1.1.1k curl-7.79.1 zstd-1.4.5 libarchive-3.4.3 rtaudio nanovg nanosvg oui-blendish osdialog
+  
+  clean:
+  	git clean -fdx
+--- 265,271 ----
+  
+  # Helpers
+  
+! src: glew-2.1.0 glfw jansson-2.12 libsamplerate-0.2.1 openssl-1.1.1k curl-7.79.1 zstd-1.4.5 libarchive-3.4.3 rtaudio nanovg nanosvg oui-blendish osdialog
+  
+  clean:
+  	git clean -fdx
