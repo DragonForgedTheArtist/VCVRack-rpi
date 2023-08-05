@@ -19,7 +19,7 @@ clone the VCV Rack repo and apply the patch
 
 Follow the standard build instructions, including building the fundamental plugin.
 
-    git submodule update --init --recursiveGit
+    git submodule update --init --recursive
     make dep
     make
     make run
