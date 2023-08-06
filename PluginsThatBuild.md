@@ -27,10 +27,20 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | az | az | Compiles | https://github.com/azrrik/az-vcv |
 | Bastl | Bastl | Compiles | https://github.com/hemmer/bastl-vcv |
 | Befaco | Befaco | Compiles | https://github.com/VCVRack/Befaco |
+| Bidoo | Bidoo | Compiles | https://github.com/sebastien-bouffier/Bidoo |
 | Biset | Biset | Compiles | https://github.com/gibbonjoyeux/VCV-Biset |
+| Blush Audio | Blush Audio | Compiles | https://github.com/BlushAudioLab/BlushAudioVCVFreeModules |
 | Bogaudio | Bogaudio | Compiles | https://github.com/bogaudio/BogaudioModules |
+| captvolt | captvolt | Compiles | https://github.com/cnvogelg/captvolt-vcv |
+| catronomix | Catro/Modulo | Compiles | https://github.com/catronomix/catro-modulo |
+| Chortling Hamster Modules | Chortling Hamster Modules | Builds | https://github.com/chortlinghamster/modules |
 | Chinenual | Chinenual | Compiles | https://github.com/chinenual/Chinenual-VCV |
+| chowdsp | ChowDSP | Compiles | https://github.com/jatinchowdhury18/ChowDSP-VCV |
+| Coffee | Coffee | Compiles | https://github.com/CoffeeVCV/CoffeeVCV |
+| Comfortzone | Comfortzone | Compiles | https://github.com/hampa/comfortzone |
 | Count Modula | Count Modula | Compiles | https://github.com/countmodula/VCVRackPlugins |
+| cvly | cvly | Compiles | https://github.com/Lyqst/cvly-modules |
+| Daniel Davies | Daniel Davies | Compiles | https://github.com/danieldavies99/sequel |
 | dawn bree | dawn bree | Compiles | https://github.com/jonesnxt/dawnbree |
 | Dintree | Dintree | Compiles | https://github.com/hires/Dintree-Virtual |
 | docB | dbRackModules | Compiles | https://github.com/docb/dbRackModules |
