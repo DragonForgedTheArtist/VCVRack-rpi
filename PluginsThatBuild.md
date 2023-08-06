@@ -15,7 +15,17 @@ Plugins that are known to compile will be upgraded to "working" once they have b
 | Alikins | Alikins | Compiles | https://github.com/alikins/Alikins-rack-plugins |
 | AlliewayAudio | AlliewayAudio_Freebies | Compiles | https://github.com/AlliewayAudio/AlliewayAudio_Freebies|
 | Amalgamated Harmonics | Amalgamated Harmonics | Compiles | https://github.com/jhoar/AmalgamatedHarmonics |
+| Animated Circuits | Animated Circuits | Compiles | https://github.com/AnimatedCircuits/RackModules |
+| aridacity | aridacity | Compiles | https://github.com/cubeleco/aridacityVCV |
 Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRack/AudibleInstruments |
+| AS | AS | Compiles | https://github.com/AScustomWorks/AS |
+| ÄSK | ÄSK | Compiles | https://github.com/pawal/ask-vcv-modules |
+| Atelier | Atelier | Compiles | https://github.com/Xenakios/Atelier |
+| Aura Audio | Aura Audio | Working | https://github.com/emurray2/auraaudio-vcv-rack |
+| Autinn | Autinn | Compiles | https://github.com/NikolaiVChr/Autinn |
+| Axioma | Axioma | Compiles | https://github.com/kauewerner/Axioma |
+| az | az | Compiles | https://github.com/azrrik/az-vcv |
+| Bastl | Bastl | Compiles | https://github.com/hemmer/bastl-vcv |
 | Befaco | Befaco | Compiles | https://github.com/VCVRack/Befaco |
 | Biset | Biset | Compiles | https://github.com/gibbonjoyeux/VCV-Biset |
 | Bogaudio | Bogaudio | Compiles | https://github.com/bogaudio/BogaudioModules |
