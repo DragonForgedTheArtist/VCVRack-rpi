@@ -36,6 +36,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | SV Modular | DrumKit | Compiles | https://github.com/SVModular/DrumKit |
 | SynthKit | SynthKit | Compiles | https://github.com/jerrysievert/synthkit/ |
 | VCV | Fundamental | Working | https://github.com/VCVRack/Fundamental |
+| VCV | VCV Recorder | Compiles | https://github.com/VCVRack/VCV-Recorder |
 | Venom | Venom | Compiles | https://github.com/DaveBenham/VenomModules |
 
 I will be updating this table as I need the plugins or have time
