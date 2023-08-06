@@ -5,8 +5,16 @@ Plugins that are known to compile will be upgraded to "working" once they have b
 
 | Vendor | Plugin | Status | Repo |
 | ------ | ------ | ------ | ---- |
+| 21kHz | 21kHz | Compiles | https://github.com/netboy3/21kHz-rack-plugins |
+| 3HR | 3HR | Compiles | https://github.com/Geekachuqt/3HR |
+| 8Mode | 8Mode | Compiles | https://github.com/8Mode/8Mode-VCV_Modules |
 | Aaron Static | Aaron Static | Compiles | https://github.com/aaronstatic/AaronStatic_modules |
+| aetrion | AetrionModular | Compiles | https://github.com/aetrion-music/aetrion-modular |
 | Ahornberg | Ahornberg | Compiles | https://github.com/Ahornberg/Ahornberg-VCV-Modules |
+| alef's bits | alef's bits | Compiles | https://github.com/alefnull/alefsbits |
+| Alikins | Alikins | Compiles | https://github.com/alikins/Alikins-rack-plugins |
+| AlliewayAudio | AlliewayAudio_Freebies | Compiles | https://github.com/AlliewayAudio/AlliewayAudio_Freebies|
+| Amalgamated Harmonics | Amalgamated Harmonics | Compiles | https://github.com/jhoar/AmalgamatedHarmonics |
 Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRack/AudibleInstruments |
 | Befaco | Befaco | Compiles | https://github.com/VCVRack/Befaco |
 | Biset | Biset | Compiles | https://github.com/gibbonjoyeux/VCV-Biset |
