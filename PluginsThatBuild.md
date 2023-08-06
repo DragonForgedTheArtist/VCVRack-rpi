@@ -33,7 +33,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Bogaudio | Bogaudio | Compiles | https://github.com/bogaudio/BogaudioModules |
 | captvolt | captvolt | Compiles | https://github.com/cnvogelg/captvolt-vcv |
 | catronomix | Catro/Modulo | Compiles | https://github.com/catronomix/catro-modulo |
-| Chortling Hamster Modules | Chortling Hamster Modules | Builds | https://github.com/chortlinghamster/modules |
+| Chortling Hamster Modules | Chortling Hamster Modules | Compiles | https://github.com/chortlinghamster/modules |
 | Chinenual | Chinenual | Compiles | https://github.com/chinenual/Chinenual-VCV |
 | chowdsp | ChowDSP | Compiles | https://github.com/jatinchowdhury18/ChowDSP-VCV |
 | Coffee | Coffee | Compiles | https://github.com/CoffeeVCV/CoffeeVCV |
@@ -42,10 +42,19 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | cvly | cvly | Compiles | https://github.com/Lyqst/cvly-modules |
 | Daniel Davies | Daniel Davies | Compiles | https://github.com/danieldavies99/sequel |
 | dawn bree | dawn bree | Compiles | https://github.com/jonesnxt/dawnbree |
+| dBiz | dBiz | Compiles | https://github.com/dBiz/dBiz |
+| DHE Modules | DHE Modules | Compiles | https://github.com/dhemery/DHE-Modules/ |
 | Dintree | Dintree | Compiles | https://github.com/hires/Dintree-Virtual |
 | docB | dbRackModules | Compiles | https://github.com/docb/dbRackModules |
 | docB | dbRackSequencer | Compiles | https://github.com/docb/dbRackSequencer |
+| EarthTones | EarthTones | Compiles | https://github.com/aaronkarp123/EarthTones |
+| EH-modules | EH-modules | Compiles | https://github.com/eh2k/vcvrack-fv1-emu.git |
+| EnigmaCurry | EnigmaCurry | Compiles | https://github.com/EnigmaCurry/EnigmaCurry-vcv-pack |
+| EucQuant | EucQuant | Compiles | https://github.com/sindarknave/EucQuant |
+| Expert Sleepers | Encoders | Compiles | https://github.com/expertsleepersltd/vcvrack-encoders |
+| forsitan modulare | forsitan modulare | Compiles | https://github.com/gosub/forsitan-modulare |
 | Frozen Wasteland | Frozen Wasteland | Compiles | https://github.com/almostEric/FrozenWasteland |
+| fruitsofkarma | fruitsofkarma | Compiles | https://github.com/alexey-komarov/fruitsofkarma-vcvrack |
 | Geodesics | Geodesics | Compiles | https://github.com/MarcBoule/Geodesics/  |
 | HetrickCV | HetrickCV | Compiles | https://github.com/mhetrick/hetrickcv |
 | Impromptu | Impromptu | Compiles | https://github.com/MarcBoule/ImpromptuModular/ |

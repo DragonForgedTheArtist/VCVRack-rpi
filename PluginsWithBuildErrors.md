@@ -12,3 +12,5 @@
 | Bark | Coirt / Bark | Fails | https://github.com/Coirt/Bark |
 | cf | cf | Fails | https://github.com/cfoulc/cf |
 | computerscare | computerscare | Fails | https://github.com/freddyz/computerscare-vcv-modules |
+| Fehler Fabrik | Fehler Fabrik | libsamplerate| https://github.com/RCameron93/FehlerFabrik |
+| Free Surface | Free Surface | libsamplerate | https://github.com/freesurfacemodules/FreeSurface |
