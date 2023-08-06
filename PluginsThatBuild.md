@@ -56,9 +56,19 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Frozen Wasteland | Frozen Wasteland | Compiles | https://github.com/almostEric/FrozenWasteland |
 | fruitsofkarma | fruitsofkarma | Compiles | https://github.com/alexey-komarov/fruitsofkarma-vcvrack |
 | Geodesics | Geodesics | Compiles | https://github.com/MarcBoule/Geodesics/  |
+| Glue the Giant | Glue the Giant | Compiles | https://github.com/gluethegiant/gtg-rack |
+| GoodSheperd | GoodSheperd | Compiles | https://github.com/jensschulze/GoodSheperd |
+| Grande | Grande | Compiles | https://github.com/dbgrande/GrandeModular |
+| H4N4 | H4N4 Modules | Compiles | https://github.com/hannakoppelaar/h4n4-modules |
+| Hampton Harmonics | Hampton Harmonics | Compiles | https://gitlab.com/hampton-harmonics/hampton-harmonics-modules |
 | HetrickCV | HetrickCV | Compiles | https://github.com/mhetrick/hetrickcv |
+| htLocal | htLocal | Compiles | https://github.com/HTlocal/VCV-Modules-HTLocal |
+| iggy.labs | iggy.labs | Compiles | https://github.com/isabelgk/IggyLabsModules |
 | Impromptu | Impromptu | Compiles | https://github.com/MarcBoule/ImpromptuModular/ |
+| Infrasonic Audio | Infrasonic Audio | Compiles | https://github.com/infrasonicaudio/Infrasonic-VCV |
+| Interrobang | Interrobang | Compiles | https://github.com/jimallman/interrobang-rack-modules/ |
 | JW-Modules | JW-Modules | Compiles | https://github.com/jeremywen/JW-Modules |
+| KautenjaDSP | KautenjaDSP RackNES | Compiles | https://github.com/Kautenja/RackNES |
 | Lilac | Lilac Loop | Compiles | https://github.com/grough/lilac-loop-vcv |
 | Matrix Sequencer | Matrix Sequencer | Compiles | https://github.com/Retr0-code/Matrix-Sequncer |
 | MindMeld | MindMeld | Compiles | https://github.com/MarcBoule/MindMeldModular |

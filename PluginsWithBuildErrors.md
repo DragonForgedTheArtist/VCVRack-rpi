@@ -14,3 +14,4 @@
 | computerscare | computerscare | Fails | https://github.com/freddyz/computerscare-vcv-modules |
 | Fehler Fabrik | Fehler Fabrik | libsamplerate| https://github.com/RCameron93/FehlerFabrik |
 | Free Surface | Free Surface | libsamplerate | https://github.com/freesurfacemodules/FreeSurface |
+| Holonic Systems | Holonic Systems | Fails | https://github.com/hdavid/VCVRack-Holon.ist |
