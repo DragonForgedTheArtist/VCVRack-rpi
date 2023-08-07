@@ -105,8 +105,28 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Ohmer Modules | Ohmer | Compiles | https://github.com/DomiKamu/Ohmer |
 | pachde | pachde One | Compiles | https://github.com/Paul-Dempsey/pachde1 |
 | Path Set | Path Set: Free | Compiles | https://github.com/patheros/PathSetModules |
+| PdArray | PdArray | Compiles | https://github.com/mgunyho/PdArray |
+| Photuri Electronics | Photuri Electronics | Compiles | https://github.com/BooleanMuse/Photuri-Electronics |
+| PinkTrombone | PinkTrombone | Compiles | https://github.com/VegaDeftwing/PinkTromboneVCV |
+| Plurm | Plurm | Compiles | https://github.com/terrytheplatypus/Plurm |
+| Prism | Prism | Compiles | https://github.com/SteveRussell33/Prism |
+| QuantalAudio | QuantalAudio | Compiles | https://github.com/sumpygump/quantal-audio |
+| Questionable Modules | Questionable Modules | Compiles | https://github.com/isivisi/questionablemodules |
+| RareBreeds | Orbits | Compiles | https://github.com/RareBreeds/Orbits |
+| rchoices | rchoices | Compiles | https://github.com/davekch/rchoices |
+| RCM | RCM | Compiles | https://github.com/Rcomian/rcm-modules |
+| RebelTech | RebelTech | Compiles | https://github.com/hemmer/rebel-tech-vcv |
+| repelzen | repelzen | Compiles | https://github.com/wiqid/repelzen |
+| Sapphire | Sapphire | Compiles | https://github.com/cosinekitty/sapphire |
+| scanner darkly | Collection One | Compiles | https://github.com/scanner-darkly/vcv-collection-one |
+| Sckitam | Sckitam | Compiles | https://github.com/philippesalembier/SckitamVCV |
+| Sculpt-O-Sound | Sculpt-O-Sound | Compiles | https://github.com/josbouten/Sculpt-O-Sound |
 | Seaside Modular | Seaside Modular | Compiles | https://github.com/abluenautilus/SeasideModularVCV |
-| SickoCV | SickoCV | Compiles | https://github.com/sickozell/SickoCV |
+| Sha#Bang! Modules | Sha#Bang! Modules | Compiles | https://github.com/jeremymuller/Sha-Bang-Modules |
+| Sickozell | SickoCV | Compiles | https://github.com/sickozell/SickoCV |
+| Silly Sounds | Silly Sounds | Compiles | https://github.com/loparcog/SillySounds |
+| SIM | SIM | Compiles | https://github.com/imDanSable/SIM |
+| Skylander | Skylander | Compiles | https://github.com/theskylander/Skylander-plugins |
 | SmartGridMusic | TheAllElectricSmartGrid | Compiles | https://github.com/jvictor0/theallelectricsmartgrid |
 | stoermelder | PackOne | Compiles | https://github.com/stoermelder/vcvrack-packone |
 | SV Modular | DrumKit | Compiles | https://github.com/SVModular/DrumKit |
