@@ -80,10 +80,18 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Lomas | Lomas Modules | Compiles | https://github.com/LomasModules/LomasModules |
 | Loud Numbers | Loud Numbers | Compiles | https://github.com/loudnumbers/loudnumbers_vcv |
 | Lunetta Modula | Lunetta Modula by Count Modula | Compiles | https://github.com/countmodula/VCVRackLunettaModula |
+| LyraeModules | LyraeModules | Compiles | https://github.com/VegaDeftwing/LyraeModules |
 | Matrix Sequencer | Matrix Sequencer | Compiles | https://github.com/Retr0-code/Matrix-Sequncer |
+| MicMusic | MicMusic | Compiles | https://github.com/very-cool-name/MicMusic-VCV |
 | MindMeld | MindMeld | Compiles | https://github.com/MarcBoule/MindMeldModular |
 | ML Modules | ML Modules | Compiles | https://github.com/martin-lueders/ML_modules |
+| Mockba Modular | Mockba Modular | Compiles | https://github.com/MockbaTheBorg/MockbaModular |
+| moDllz | moDllz | Compiles | https://github.com/dllmusic/moDllz/tree/master/src |
+| modular80 | modular80 | Compiles | https://github.com/cschol/modular80 |
+| Mojo Modules | Mojo | Compiles | https://github.com/tomdasilva/Mojo |
 | monome | monome | Compiles | https://github.com/Dewb/monome-rack |
+| MrLumps | MrLumps | Compiles | https://github.com/djpeterso23662/MrLumps |
+| MSM | MSM | Compiles | https://github.com/netboy3/MSM-vcvrack-plugin |
 | NullPath | NullPath | Compiles | https://github.com/alefnull/NullPath |
 | pachde | pachde One | Compiles | https://github.com/Paul-Dempsey/pachde1 |
 | Seaside Modular | Seaside Modular | Compiles | https://github.com/abluenautilus/SeasideModularVCV |
