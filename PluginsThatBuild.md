@@ -92,8 +92,19 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | monome | monome | Compiles | https://github.com/Dewb/monome-rack |
 | MrLumps | MrLumps | Compiles | https://github.com/djpeterso23662/MrLumps |
 | MSM | MSM | Compiles | https://github.com/netboy3/MSM-vcvrack-plugin |
+| Myth | Myth | Compiles | https://github.com/Ahineya/vcv-myth-plugin |
+| NLnRi | NonLinearInstruments | Compiles | https://github.com/NonLinearInstruments/NLNRI_VCVRackPlugins |
+| Nocturnal Encoder | Nocturnal Encoder | Compiles | https://github.com/djpeterso23662/NocturnalEncoder |
+| NOI | NOI | Compiles | https://github.com/LeNomDesFleurs/NOI-VCVRACK |
+| Noise86 | Noise86 | Compiles | https://github.com/spacejoey86/Noise86 |
+| Nonlinear Circuits | Nonlinear Circuits | Compiles | https://github.com/mhetrick/nonlinearcircuits |
+| noobhour | noobhour | Compils | https://github.com/NicolasNeubauer/noobhour_modules |
+| nozoïd | Nozoid | Compiles | https://github.com/ch-nry/VCV_nozori |
 | NullPath | NullPath | Compiles | https://github.com/alefnull/NullPath |
+| ODDSound | ODDSound MTS-ESP | Compiles | https://github.com/ODDSound/MTS-ESP-VCVRack |
+| Ohmer Modules | Ohmer | Compiles | https://github.com/DomiKamu/Ohmer |
 | pachde | pachde One | Compiles | https://github.com/Paul-Dempsey/pachde1 |
+| Path Set | Path Set: Free | Compiles | https://github.com/patheros/PathSetModules |
 | Seaside Modular | Seaside Modular | Compiles | https://github.com/abluenautilus/SeasideModularVCV |
 | SickoCV | SickoCV | Compiles | https://github.com/sickozell/SickoCV |
 | SmartGridMusic | TheAllElectricSmartGrid | Compiles | https://github.com/jvictor0/theallelectricsmartgrid |

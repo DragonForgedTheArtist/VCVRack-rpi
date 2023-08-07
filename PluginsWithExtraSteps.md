@@ -1,6 +1,24 @@
 # Plugins That Require Extra Steps To Compile
 The following plugins require extra steps to compile successfully.
 
+## OrangeLine
+OrangeLine doesn't default to the 2.0 branch so it will need to be checked out
+
+    git clone https://github.com/Stubs42/OrangeLine.git
+    git checkout 2.0
+
+alternately in one step
+
+    git clone --depth 1 --branch 2.0 https://github.com/Stubs42/OrangeLine.git
+
+Then build as normal
+
+    cd OrangeLine
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## Valley
 Valley requires borrowing some header files from the Cardinal project to build on the Raspberry Pi
 
@@ -13,9 +31,9 @@ Go into the plugins subfolder and clone the Valley repo.  When you build the plu
     cd ./Rack/plugins
     git clone --depth 1 https://github.com/ValleyAudio/ValleyRackFree.git
     cd ValleyRackFree
-    git submodule update --init --recursive --depth 1
-    make CXXFLAGS="-I ~/src/Cardinal/include/simd-compat/" dep -j4
-    make CXXFLAGS="-I ~/src/Cardinal/include/simd-compat/" -j4
+    git submodule update --init --recursive
+    make CXXFLAGS="-I ~/src/Cardinal/include/simd-compat/" dep
+    make CXXFLAGS="-I ~/src/Cardinal/include/simd-compat/"
     make install
 
 

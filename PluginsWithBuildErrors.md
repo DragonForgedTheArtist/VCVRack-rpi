@@ -16,3 +16,4 @@
 | Free Surface | Free Surface | libsamplerate | https://github.com/freesurfacemodules/FreeSurface |
 | Holonic Systems | Holonic Systems | Fails | https://github.com/hdavid/VCVRack-Holon.ist |
 | LifeFormModular | LifeFormModular | Fails | https://github.com/TimeControlledOrganism/LifeFormModular |
+| p.s.F/X | LFSR | Builds but doesn't appear in browser | https://github.com/alto777/LFSR.git |
