@@ -69,7 +69,17 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Interrobang | Interrobang | Compiles | https://github.com/jimallman/interrobang-rack-modules/ |
 | JW-Modules | JW-Modules | Compiles | https://github.com/jeremywen/JW-Modules |
 | KautenjaDSP | KautenjaDSP RackNES | Compiles | https://github.com/Kautenja/RackNES |
+| KautenjaDSP | KautenjaDSP Potato Chips | Compiles | https://github.com/Kautenja/PotatoChips |
+| Kilpatrick Audio | Kilpatrick-Toolbox | Compiles | https://github.com/kilpatrickaudio/Kilpatrick-Toolbox |
+| kocmoc | kocmoc | Compiles | https://github.com/janne808/kocmoc-rack-modules/ |
+| KRT | KRTPluginA | Compiles | https://github.com/jackokring/KRTPluginA |
 | Lilac | Lilac Loop | Compiles | https://github.com/grough/lilac-loop-vcv |
+| Lilac | Lilac Modules | Compiles | https://github.com/grough/lilac-modules-vcv |
+| Little Utils | Little Utils | Compiles | https://github.com/mgunyho/Little-Utils |
+| LOGinstruments | LOGinstruments | Compiles | https://github.com/LOGUNIVPM/LOGinstruments |
+| Lomas | Lomas Modules | Compiles | https://github.com/LomasModules/LomasModules |
+| Loud Numbers | Loud Numbers | Compiles | https://github.com/loudnumbers/loudnumbers_vcv |
+| Lunetta Modula | Lunetta Modula by Count Modula | Compiles | https://github.com/countmodula/VCVRackLunettaModula |
 | Matrix Sequencer | Matrix Sequencer | Compiles | https://github.com/Retr0-code/Matrix-Sequncer |
 | MindMeld | MindMeld | Compiles | https://github.com/MarcBoule/MindMeldModular |
 | ML Modules | ML Modules | Compiles | https://github.com/martin-lueders/ML_modules |
