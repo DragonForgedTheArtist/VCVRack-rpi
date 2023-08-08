@@ -4,11 +4,24 @@ The following plugins require extra steps to compile successfully.
 ## CharredDesert
 CharredDesert doesn't default to the 2.0 branch so it will need to be checked out
 
-    git clone --depth 1 --branch v2.0 https://github.com/SVModular/CharredDesert.git
+    git clone --branch v2.0 https://github.com/SVModular/CharredDesert.git
 
 Then build as normal
 
     cd CharredDesert
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
+## LSFR
+LSFR doesn't default to the 2.0 branch so it will need to be checked out
+
+    git clone --branch V2X https://github.com/alto777/LFSR.gi
+
+Then build as normal
+
+    cd LSFR
     git submodule update --init --recursive
     make dep
     make
