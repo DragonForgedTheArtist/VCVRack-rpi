@@ -4,9 +4,8 @@
 
 | Vendor | Plugin | Status | Repo |
 | ------ | ------ | ------ | ---- | 
-| Bark | Coirt / Bark | Fails | https://github.com/Coirt/Bark |
+| Bark | Coirt / Bark | Fails <xmmintrin.h> | https://github.com/Coirt/Bark |
 | cf | cf | Fails | https://github.com/cfoulc/cf |
-| Fehler Fabrik | Fehler Fabrik | libsamplerate| https://github.com/RCameron93/FehlerFabrik |
 | Free Surface | Free Surface | libsamplerate | https://github.com/freesurfacemodules/FreeSurface |
 | Holonic Systems | Holonic Systems | Fails | https://github.com/hdavid/VCVRack-Holon.ist |
 | RPJ | RPJ Visualizer | Needs Make 3.20| https://github.com/kockie69/Visualizer |

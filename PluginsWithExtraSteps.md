@@ -41,6 +41,22 @@ Then build as normal
     make
     make install
 
+## Fehler Fabrik
+Check out the repository as normal
+    git clone https://github.com/RCameron93/FehlerFabrik.git    
+
+Apply the patch to upgrade libsamplerate to version 0.2.1
+
+    cd FehlerFabrik
+    patch -p1 < ../../../VCVRack-rpi/patches/FehlerFabrik-libsamplerate.patch
+
+Then build as normal
+
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## LifeFormModular
 LifeFormModular doesn't default to the V2 branch so it will need to be checked out
 

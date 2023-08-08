@@ -1,0 +1,29 @@
+diff -crB FehlerFabrik-old/Makefile FehlerFabrik-new/Makefile
+*** FehlerFabrik-old/Makefile	2023-08-08 13:18:13.554253000 -0700
+--- FehlerFabrik-new/Makefile	2023-08-08 13:30:42.426455603 -0700
+***************
+*** 27,37 ****
+  DEPS += $(libsamplerate)
+  
+  $(libsamplerate):
+! 	$(WGET) http://www.mega-nerd.com/SRC/libsamplerate-0.1.9.tar.gz
+! 	cd dep && $(UNTAR) ../libsamplerate-0.1.9.tar.gz
+! 	cd dep/libsamplerate-0.1.9 && $(CONFIGURE)
+! 	cd dep/libsamplerate-0.1.9/src && $(MAKE)
+! 	cd dep/libsamplerate-0.1.9/src && $(MAKE) install
+  
+  
+  # Include the Rack plugin Makefile framework
+--- 27,38 ----
+  DEPS += $(libsamplerate)
+  
+  $(libsamplerate):
+! 	$(WGET) "https://github.com/libsndfile/libsamplerate/archive/refs/tags/0.2.1.tar.gz" -O libsamplerate-0.2.1.tar.gz 
+! 	cd dep && $(UNTAR) ../libsamplerate-0.2.1.tar.gz
+! 	cd dep/libsamplerate-0.2.1 && ./autogen.sh --no-configure
+! 	cd dep/libsamplerate-0.2.1 && $(CONFIGURE)
+! 	$(MAKE) -C dep/libsamplerate-0.2.1
+! 	$(MAKE) -C dep/libsamplerate-0.2.1 install
+  
+  
+  # Include the Rack plugin Makefile framework

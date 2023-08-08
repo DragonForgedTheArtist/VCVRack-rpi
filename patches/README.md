@@ -10,6 +10,10 @@ This is the main patch that allows VCV Rack to compile on arm linux without erro
 
         #From the top level of the rack source tree
         patch -p1 <../VCVRack-rpi/patches/Rack-arm.patch
+## FehlerFabrik-libsamplerate.patch
+Some plugins are linked against libsamplerate-0.1.9 which has archetecture detection issues on arm linux.  This patch upgrade libsamplerate to version 0.2.1 for Fehler Fabrik
+
+    patch -p1 < ../../../VCVRack-rpi/patches/FehlerFabrik-libsamplerate.patch
 
 ## Recorder-ffmpeg-mirrir.patch
 In some cases, the official ffmpeg repository is unaccessable for cloning. This patch replaces the source url for the ffmpeg submodule with the official github mirror
