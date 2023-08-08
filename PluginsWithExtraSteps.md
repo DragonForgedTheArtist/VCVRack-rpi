@@ -27,6 +27,19 @@ Then build as normal
     make
     make install
 
+## PS-PurrSoftware
+PS-PurrSoftware doesn't default to the master-V2 branch so it will need to be checked out
+
+    git clone --branch master-V2 https://github.com/knchaffin/Meander.gi
+
+Then build as normal
+
+    cd Meander
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## RPJ
 RPG doesn't default to the v2 branch so it will need to be checked out
 
