@@ -4,8 +4,6 @@
 
 | Vendor | Plugin | Status | Repo |
 | ------ | ------ | ------ | ---- | 
-| RPJ | RPJ | Fails | https://github.com/kockie69/RPJ |
-| Surge XT | Surge XT | Fails | https://github.com/surge-synthesizer/surge-rack/ |
 | Airwindows | Airwindows | Builds but doesn't appear in browser | https://github.com/baconpaul/airwin2rack |
 | AlgoritmArte | AlgoritmArte | Fails | https://github.com/algoritmarte/AlgoritmarteVCVPlugin |
 | Bacon Music | Bacon Music | Builds but doesn't appear in browser | https://github.com/baconpaul/BaconPlugs/ |
@@ -19,3 +17,7 @@
 | p.s.F/X | LFSR | Builds but doesn't appear in browser | https://github.com/alto777/LFSR.git |
 | PurrSoftware | PS-PurrSoftware | Builds but doesn't appear in browser | https://github.com/knchaffin/Meander/tree/master-V2 |
 | RPJ | RPJ Visualizer | Needs Make 3.20| https://github.com/kockie69/Visualizer |
+| Stellare Modular | Stellare Link | Fails | https://github.com/stellare-modular/vcv-link |
+| stocaudio | stocaudio | libsamplerate | https://github.com/aptrn/stocaudio-modules |
+| Surge XT | Surge XT | Fails | https://github.com/surge-synthesizer/surge-rack/ |
+| Tonecarver | Tonecarver | Fails | https://github.com/Tonecarver/tcRackModules/tree/v2 |

@@ -128,11 +128,33 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | SIM | SIM | Compiles | https://github.com/imDanSable/SIM |
 | Skylander | Skylander | Compiles | https://github.com/theskylander/Skylander-plugins |
 | SmartGridMusic | TheAllElectricSmartGrid | Compiles | https://github.com/jvictor0/theallelectricsmartgrid |
+| Sonus Dept. | Sonus Modular | Compiles | https://gitlab.com/sonusdept/sonusmodular |
+| Sparkette's Stuff | Sparkette's Stuff | Compiles | https://github.com/flarn2006/SparketteVCV |
+| Squinky Labs | Squinky Labs | Compiles | https://github.com/kockie69/SquinkyVCV-main |
+|Starling Via | Starling Via | Compiles | https://github.com/starlingcode/Via-for-Rack.git |
+| Stochastic Telegraph | Stochastic Telegraph | Compiles | https://github.com/mahlenmorris/VCVRack |
 | stoermelder | PackOne | Compiles | https://github.com/stoermelder/vcvrack-packone |
+| Strum's VCV Modules | Mental | Compiles | https://github.com/Strum/Strums_Mental_VCV_Modules |
+| Studio Six Plus One | Studio Six Plus One | Compiles | https://github.com/StudioSixPlusOne/rack-modules.git |
 | SV Modular | DrumKit | Compiles | https://github.com/SVModular/DrumKit |
 | SynthKit | SynthKit | Compiles | https://github.com/jerrysievert/synthkit/ |
+| T | T's Musical Tools | Compiles | https://github.com/Jadael/TMT |
+| TGA |  Chiptuner | Compiles  | https://github.com/The-Great-Assyr/Chiptuner |
+| TheModularMind | OSCelot | Compiles | https://github.com/The-Modular-Mind/oscelot |
+| Tiny Tricks | Tiny Tricks | Compiles | https://github.com/thomassidor/tinytricks |
+| trowaSoft | trowaSoft | Compiles | https://github.com/j4s0n-c/trowaSoft-VCV |
+| TyrannosaurusRu | TyrannosaurusRu | Compiles | https://github.com/fairplay/vcv-rack-plugins |
+| unless games | unless modules | Compiles | https://gitlab.com/unlessgames/unless_modules |
 | VCV | Fundamental | Working | https://github.com/VCVRack/Fundamental |
 | VCV | VCV Recorder | Workling | https://github.com/VCVRack/VCV-Recorder |
 | Venom | Venom | Compiles | https://github.com/DaveBenham/VenomModules |
+| Vitamin | Vitamin | Compiles | https://github.com/xaviershay/vitamin-vcv-modules |
+| Voxglitch | Voxglitch | Compiles | https://github.com/clone45/voxglitch |
+| WhatTheRack | WhatTheRack | Compiles | https://github.com/korfuri/WhatTheRack |
+| wiqid | wiqid anomalies | Compiles | https://github.com/wiqid/anomalies |
+| XTRTN | Extratone | Compiles | https://github.com/EaterOfSheep/Extratone |
+| Yokai_Holiday | Yokai_Holiday | Compiles | https://github.com/demcanulty/Yokai_Holiday/ |
+| ZetaCarinae | ZetaCarinae | Compiles | https://github.com/mhampton/ZetaCarinaeModules |
+| ZZC | ZZC | Compiles | https://github.com/zezic/ZZC |
 
 I will be updating this table as I need the plugins or have time
