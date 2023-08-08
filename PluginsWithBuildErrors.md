@@ -4,7 +4,6 @@
 
 | Vendor | Plugin | Status | Repo |
 | ------ | ------ | ------ | ---- | 
-| AlgoritmArte | AlgoritmArte | Fails | https://github.com/algoritmarte/AlgoritmarteVCVPlugin |
 | Bark | Coirt / Bark | Fails | https://github.com/Coirt/Bark |
 | cf | cf | Fails | https://github.com/cfoulc/cf |
 | computerscare | computerscare | Fails | https://github.com/freddyz/computerscare-vcv-modules |

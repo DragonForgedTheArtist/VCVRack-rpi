@@ -1,6 +1,19 @@
 # Plugins That Require Extra Steps To Compile
 The following plugins require extra steps to compile successfully.
 
+## AlgoritmArte
+AlgoritmArte doesn't default to the v2 branch so it will need to be checked out
+
+    git clone --branch v2 https://github.com/algoritmarte/AlgoritmarteVCVPlugin.gi
+
+Then build as normal
+
+    cd AlgoritmarteVCVPlugin
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## CharredDesert
 CharredDesert doesn't default to the 2.0 branch so it will need to be checked out
 
