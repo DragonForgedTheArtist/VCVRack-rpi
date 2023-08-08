@@ -41,6 +41,20 @@ Then build as normal
     make
     make install
 
+## LifeFormModular
+LifeFormModular doesn't default to the V2 branch so it will need to be checked out
+
+    git clone --branch V2 https://github.com/TimeControlledOrganism/LifeFormModular.git
+    
+
+Then build as normal
+
+    cd LifeFormModular
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## LSFR
 LSFR doesn't default to the 2.0 branch so it will need to be checked out
 
