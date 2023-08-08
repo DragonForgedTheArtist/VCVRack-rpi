@@ -13,4 +13,3 @@
 | Stellare Modular | Stellare Link | Fails | https://github.com/stellare-modular/vcv-link |
 | stocaudio | stocaudio | libsamplerate | https://github.com/aptrn/stocaudio-modules |
 | Surge XT | Surge XT | Fails | https://github.com/surge-synthesizer/surge-rack/ |
-| Tonecarver | Tonecarver | Fails | https://github.com/Tonecarver/tcRackModules/tree/v2 |

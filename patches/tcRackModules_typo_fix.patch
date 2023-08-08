@@ -1,0 +1,32 @@
+diff -crB tcRackModules-old/src/ArpGen.cpp tcRackModules-fixed/src/ArpGen.cpp
+*** tcRackModules-old/src/ArpGen.cpp	2023-08-08 11:26:27.143422000 -0700
+--- tcRackModules-fixed/src/ArpGen.cpp	2023-08-08 11:21:14.432352000 -0700
+***************
+*** 9,15 ****
+  #include "ArpGen/LSystem/LSystem.hpp"
+  #include "ArpGen/LSystem/LSystemExpander.hpp"
+  #include "ArpGen/LSystem/LSystemExecutor.hpp"
+! #include "Arpgen/ArpPlayer.hpp"
+  #include "ArpGen/NoteTable.hpp"
+  #include "ArpGen/ChannelManager.hpp"
+  #include "ArpGen/ArpTermCounter.hpp"
+--- 9,15 ----
+  #include "ArpGen/LSystem/LSystem.hpp"
+  #include "ArpGen/LSystem/LSystemExpander.hpp"
+  #include "ArpGen/LSystem/LSystemExecutor.hpp"
+! #include "ArpGen/ArpPlayer.hpp"
+  #include "ArpGen/NoteTable.hpp"
+  #include "ArpGen/ChannelManager.hpp"
+  #include "ArpGen/ArpTermCounter.hpp"
+***************
+*** 2300,2303 ****
+  };
+  
+  
+! Model* modelTcArpGen = createModel<TcArpGen, TcArpGenWidget>("tcArpGen");
+\ No newline at end of file
+--- 2300,2303 ----
+  };
+  
+  
+! Model* modelTcArpGen = createModel<TcArpGen, TcArpGenWidget>("tcArpGen");

@@ -107,6 +107,23 @@ Then build as normal
     make
     make install
 
+## Tonecarver
+Tonecarver doesn't default to the v2 branch so it will need to be checked out
+
+    git clone --branch v2 https://github.com/Tonecarver/tcRackModules.git
+
+There is a small typo in ArpGen.cpp use the patch to fix it
+
+    cd tcRackModules
+    patch -p1 <../../../VCVRack-rpi/patches/tcRackModules_typo_fix.patch
+
+Then build as normal
+
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## Valley
 Valley requires borrowing some header files from the Cardinal project to build on the Raspberry Pi
 
