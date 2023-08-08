@@ -26,6 +26,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Autinn | Autinn | Compiles | https://github.com/NikolaiVChr/Autinn |
 | Axioma | Axioma | Compiles | https://github.com/kauewerner/Axioma |
 | az | az | Compiles | https://github.com/azrrik/az-vcv |
+| Bacon Music | Bacon Music | Compiles | https://github.com/baconpaul/BaconPlugs/ |
 | Bastl | Bastl | Compiles | https://github.com/hemmer/bastl-vcv |
 | Befaco | Befaco | Compiles | https://github.com/VCVRack/Befaco |
 | Bidoo | Bidoo | Compiles | https://github.com/sebastien-bouffier/Bidoo |

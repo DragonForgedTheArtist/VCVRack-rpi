@@ -5,7 +5,6 @@
 | Vendor | Plugin | Status | Repo |
 | ------ | ------ | ------ | ---- | 
 | AlgoritmArte | AlgoritmArte | Fails | https://github.com/algoritmarte/AlgoritmarteVCVPlugin |
-| Bacon Music | Bacon Music | Builds but doesn't appear in browser | https://github.com/baconpaul/BaconPlugs/ |
 | Bark | Coirt / Bark | Fails | https://github.com/Coirt/Bark |
 | cf | cf | Fails | https://github.com/cfoulc/cf |
 | computerscare | computerscare | Fails | https://github.com/freddyz/computerscare-vcv-modules |
