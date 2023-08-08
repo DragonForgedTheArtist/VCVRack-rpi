@@ -11,6 +11,7 @@ Plugins that are known to compile will be upgraded to "working" once they have b
 | Aaron Static | Aaron Static | Compiles | https://github.com/aaronstatic/AaronStatic_modules |
 | aetrion | AetrionModular | Compiles | https://github.com/aetrion-music/aetrion-modular |
 | Ahornberg | Ahornberg | Compiles | https://github.com/Ahornberg/Ahornberg-VCV-Modules |
+| Airwindows | Airwindows | Compiles | https://github.com/baconpaul/airwin2rack |
 | alef's bits | alef's bits | Compiles | https://github.com/alefnull/alefsbits |
 | Alikins | Alikins | Compiles | https://github.com/alikins/Alikins-rack-plugins |
 | AlliewayAudio | AlliewayAudio_Freebies | Compiles | https://github.com/AlliewayAudio/AlliewayAudio_Freebies|

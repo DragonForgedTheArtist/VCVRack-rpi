@@ -4,7 +4,6 @@
 
 | Vendor | Plugin | Status | Repo |
 | ------ | ------ | ------ | ---- | 
-| Airwindows | Airwindows | Builds but doesn't appear in browser | https://github.com/baconpaul/airwin2rack |
 | AlgoritmArte | AlgoritmArte | Fails | https://github.com/algoritmarte/AlgoritmarteVCVPlugin |
 | Bacon Music | Bacon Music | Builds but doesn't appear in browser | https://github.com/baconpaul/BaconPlugs/ |
 | Bark | Coirt / Bark | Fails | https://github.com/Coirt/Bark |
