@@ -14,6 +14,23 @@ Then build as normal
     make
     make install
 
+## Causal Systems
+Causal Systems doesn't default to the rack2 branch so it will need to be checked out
+
+    git clone --branch rack2 https://github.com/freesurfacemodules/FreeSurface.git
+
+Apply the patch to upgrade libsamplerate to version 0.2.1
+
+    cd FreeSurface
+    patch -p1 < ../../../VCVRack-rpi/patches/CausalSystems-libsamplerate.patch
+
+Then build as normal
+
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## CharredDesert
 CharredDesert doesn't default to the 2.0 branch so it will need to be checked out
 
@@ -145,12 +162,12 @@ Valley requires borrowing some header files from the Cardinal project to build o
 
 Clone the Cardinal repo outside your rack repo folder
 
-    git clone --depth 1 https://github.com/DISTRHO/Cardinal.git
+    git clone https://github.com/DISTRHO/Cardinal.git
 
 Go into the plugins subfolder and clone the Valley repo.  When you build the plugin, you need to reference the simd-compat folder from the Cardinal source.  Replace "~/src" with the parent directory of your Cardinal repo clone.
   
     cd ./Rack/plugins
-    git clone --depth 1 https://github.com/ValleyAudio/ValleyRackFree.git
+    git clone https://github.com/ValleyAudio/ValleyRackFree.git
     cd ValleyRackFree
     git submodule update --init --recursive
     make CXXFLAGS="-I ~/src/Cardinal/include/simd-compat/" dep

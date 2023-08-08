@@ -10,6 +10,12 @@ This is the main patch that allows VCV Rack to compile on arm linux without erro
 
         #From the top level of the rack source tree
         patch -p1 <../VCVRack-rpi/patches/Rack-arm.patch
+
+## CausalSystems-libsamplerate.patch
+Some plugins are linked against libsamplerate-0.1.9 which has archetecture detection issues on arm linux.  This patch upgrade libsamplerate to version 0.2.1 for Causal Systems
+
+    patch -p1 < ../../../VCVRack-rpi/patches/CausalSystems-libsamplerate.patch
+
 ## FehlerFabrik-libsamplerate.patch
 Some plugins are linked against libsamplerate-0.1.9 which has archetecture detection issues on arm linux.  This patch upgrade libsamplerate to version 0.2.1 for Fehler Fabrik
 
