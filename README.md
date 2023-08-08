@@ -15,7 +15,7 @@ clone the VCV Rack repo and apply the patch
 
     git clone https://github.com/VCVRack/Rack.git
     cd Rack
-    patch -p1 <../VCVRack-rpi/Rack-arm.patch
+    patch -p1 <../VCVRack-rpi/patches/Rack-arm.patch
 
 Follow the standard build instructions, including building the fundamental plugin.
 
