@@ -1,0 +1,29 @@
+diff -crB stocaudio-modules-old/Makefile stocaudio-modules-new/Makefile
+*** stocaudio-modules-old/Makefile	2023-08-08 19:14:53.197736000 -0700
+--- stocaudio-modules-new/Makefile	2023-08-08 19:17:50.824796041 -0700
+***************
+*** 27,37 ****
+  DEPS += $(libsamplerate)
+  
+  $(libsamplerate):
+! 	cd dep && $(WGET) http://www.mega-nerd.com/SRC/libsamplerate-0.1.9.tar.gz
+! 	cd dep && $(UNTAR) libsamplerate-0.1.9.tar.gz
+! 	cd dep/libsamplerate-0.1.9 && $(CONFIGURE)
+! 	cd dep/libsamplerate-0.1.9/src && $(MAKE)
+! 	cd dep/libsamplerate-0.1.9/src && $(MAKE) install
+  
+  
+  
+--- 27,38 ----
+  DEPS += $(libsamplerate)
+  
+  $(libsamplerate):
+! 	$(WGET) "https://github.com/libsndfile/libsamplerate/archive/refs/tags/0.2.1.tar.gz" -O libsamplerate-0.2.1.tar.gz 
+! 	cd dep && $(UNTAR) ../libsamplerate-0.2.1.tar.gz
+! 	cd dep/libsamplerate-0.2.1 && ./autogen.sh --no-configure
+! 	cd dep/libsamplerate-0.2.1 && $(CONFIGURE)
+! 	$(MAKE) -C dep/libsamplerate-0.2.1
+! 	$(MAKE) -C dep/libsamplerate-0.2.1 install
+  
+  
+  

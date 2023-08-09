@@ -27,6 +27,11 @@ In some cases, the official ffmpeg repository is unaccessable for cloning. This 
     # From the top level of the VCV-Recorder plugin source
     patch -p1 <../../../VCVRack-rpi/patches/Recorder-ffmpeg-mirror.patch
 
+## stocaudio-modules-libsamplerate.patch
+Some plugins are linked against libsamplerate-0.1.9 which has archetecture detection issues on arm linux.  This patch upgrade libsamplerate to version 0.2.1 for stocaudio
+
+    patch -p1 --dry-run < ../../../VCVRack-rpi/patches/stocaudio-modules-libsamplerate.patch
+
 ## tcRackModules_typo_fix.patch
 There is a small typo in ArpGen.cpp.  This patch fixes a case sensitivity issue.
 

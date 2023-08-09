@@ -140,6 +140,22 @@ Then build as normal
     make
     make install
 
+## stocaudio
+Check out the repository as normal
+    git clone https://github.com/aptrn/stocaudio-modules.git
+
+Apply the patch to upgrade libsamplerate to version 0.2.1
+
+    cd stocaudio-modules
+    patch -p1 --dry-run < ../../../VCVRack-rpi/patches/stocaudio-modules-libsamplerate.patch
+
+Then build as normal
+
+    git submodule update --init --recursive
+    make dep
+    make
+    make install
+
 ## Tonecarver
 Tonecarver doesn't default to the v2 branch so it will need to be checked out
 
