@@ -172,22 +172,3 @@ Then build as normal
     make dep
     make
     make install
-
-## Valley
-Valley requires borrowing some header files from the Cardinal project to build on the Raspberry Pi
-
-Clone the Cardinal repo outside your rack repo folder
-
-    git clone https://github.com/DISTRHO/Cardinal.git
-
-Go into the plugins subfolder and clone the Valley repo.  When you build the plugin, you need to reference the simd-compat folder from the Cardinal source.  Replace "~/src" with the parent directory of your Cardinal repo clone.
-  
-    cd ./Rack/plugins
-    git clone https://github.com/ValleyAudio/ValleyRackFree.git
-    cd ValleyRackFree
-    git submodule update --init --recursive
-    make CXXFLAGS="-I ~/src/Cardinal/include/simd-compat/" dep
-    make CXXFLAGS="-I ~/src/Cardinal/include/simd-compat/"
-    make install
-
-
