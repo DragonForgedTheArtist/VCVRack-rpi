@@ -40,6 +40,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | chowdsp | ChowDSP | Compiles | https://github.com/jatinchowdhury18/ChowDSP-VCV |
 | Coffee | Coffee | Compiles | https://github.com/CoffeeVCV/CoffeeVCV |
 | Comfortzone | Comfortzone | Compiles | https://github.com/hampa/comfortzone |
+| computerscare | computerscare| Compiles | https://github.com/freddyz/computerscare-vcv-modules |
 | Count Modula | Count Modula | Compiles | https://github.com/countmodula/VCVRackPlugins |
 | cvly | cvly | Compiles | https://github.com/Lyqst/cvly-modules |
 | Daniel Davies | Daniel Davies | Compiles | https://github.com/danieldavies99/sequel |
