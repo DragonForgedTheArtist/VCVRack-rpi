@@ -60,7 +60,7 @@ Then build as normal
 ## LSFR
 LSFR doesn't default to the 2.0 branch so it will need to be checked out
 
-    git clone --branch V2X https://github.com/alto777/LFSR.gi
+    git clone --branch V2X https://github.com/alto777/LFSR.git
 
 Then build as normal
 
