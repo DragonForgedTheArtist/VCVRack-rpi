@@ -44,20 +44,6 @@ Then build as normal
     make
     make install
 
-## computerscare
-computerscare doesn't default to the v2.0.4 branch so it will need to be checked out
-
-    git clone --branch v2.0.4 https://github.com/freddyz/computerscare-vcv-modules.git
-    
-
-Then build as normal
-
-    cd computerscare-vcv-modules
-    git submodule update --init --recursive
-    make dep
-    make
-    make install
-
 ## Fehler Fabrik
 Check out the repository as normal
     git clone https://github.com/RCameron93/FehlerFabrik.git    
