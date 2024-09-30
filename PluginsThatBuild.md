@@ -118,6 +118,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | RareBreeds | Orbits | Compiles | https://github.com/RareBreeds/Orbits |
 | rchoices | rchoices | Compiles | https://github.com/davekch/rchoices |
 | RCM | RCM | Compiles | https://github.com/Rcomian/rcm-modules |
+| RPJ | RPJ Visualizer | Compiles | https://github.com/kockie69/Visualizer |
 | RebelTech | RebelTech | Compiles | https://github.com/hemmer/rebel-tech-vcv |
 | repelzen | repelzen | Compiles | https://github.com/wiqid/repelzen |
 | Sapphire | Sapphire | Compiles | https://github.com/cosinekitty/sapphire |
