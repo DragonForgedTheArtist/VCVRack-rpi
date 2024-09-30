@@ -150,6 +150,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | unless games | unless modules | Compiles | https://gitlab.com/unlessgames/unless_modules |
 | VCV | Fundamental | Working | https://github.com/VCVRack/Fundamental |
 | VCV | VCV Recorder | Workling | https://github.com/VCVRack/VCV-Recorder |
+|Valley|Valley|Compiles|https://github.com/ValleyAudio/ValleyRackFree|
 | Venom | Venom | Compiles | https://github.com/DaveBenham/VenomModules |
 | Vitamin | Vitamin | Compiles | https://github.com/xaviershay/vitamin-vcv-modules |
 | Voxglitch | Voxglitch | Compiles | https://github.com/clone45/voxglitch |
