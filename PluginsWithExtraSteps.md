@@ -86,7 +86,7 @@ Then build as normal
 ## PS-PurrSoftware
 PS-PurrSoftware doesn't default to the master-V2 branch so it will need to be checked out
 
-    git clone --branch master-V2 https://github.com/knchaffin/Meander.gi
+    git clone --branch master-V2 https://github.com/knchaffin/Meander.git
 
 Then build as normal
 
