@@ -56,6 +56,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | EucQuant | EucQuant | Compiles | https://github.com/sindarknave/EucQuant |
 | Expert Sleepers | Encoders | Compiles | https://github.com/expertsleepersltd/vcvrack-encoders |
 | forsitan modulare | forsitan modulare | Compiles | https://github.com/gosub/forsitan-modulare |
+| Free Surface | WaterTable | Compiles | https://github.com/freesurfacemodules/FreeSurface |
 | Frozen Wasteland | Frozen Wasteland | Compiles | https://github.com/almostEric/FrozenWasteland |
 | fruitsofkarma | fruitsofkarma | Compiles | https://github.com/alexey-komarov/fruitsofkarma-vcvrack |
 | Geodesics | Geodesics | Compiles | https://github.com/MarcBoule/Geodesics/  |
