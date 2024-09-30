@@ -14,23 +14,6 @@ Then build as normal
     make
     make install
 
-## Causal Systems
-Causal Systems doesn't default to the rack2 branch so it will need to be checked out
-
-    git clone --branch rack2 https://github.com/freesurfacemodules/FreeSurface.git
-
-Apply the patch to upgrade libsamplerate to version 0.2.1
-
-    cd FreeSurface
-    patch -p1 < ../../../VCVRack-rpi/patches/CausalSystems-libsamplerate.patch
-
-Then build as normal
-
-    git submodule update --init --recursive
-    make dep
-    make
-    make install
-
 ## CharredDesert
 CharredDesert doesn't default to the 2.0 branch so it will need to be checked out
 
