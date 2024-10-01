@@ -92,7 +92,6 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Mockba Modular | Mockba Modular | Compiles | https://github.com/MockbaTheBorg/MockbaModular |
 | moDllz | moDllz | Compiles | https://github.com/dllmusic/moDllz/tree/master/src |
 | modular80 | modular80 | Compiles | https://github.com/cschol/modular80 |
-| Mojo Modules | Mojo | Compiles | https://github.com/tomdasilva/Mojo |
 | monome | monome | Compiles | https://github.com/Dewb/monome-rack |
 | MrLumps | MrLumps | Compiles | https://github.com/djpeterso23662/MrLumps |
 | MSM | MSM | Compiles | https://github.com/netboy3/MSM-vcvrack-plugin |
