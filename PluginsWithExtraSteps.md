@@ -118,7 +118,7 @@ Check out the repository as normal
 Apply the patch to upgrade libsamplerate to version 0.2.1
 
     cd stocaudio-modules
-    patch -p1 --dry-run < ../../../VCVRack-rpi/patches/stocaudio-modules-libsamplerate.patch
+    patch -p1 < ../../../VCVRack-rpi/patches/stocaudio-modules-libsamplerate.patch
 
 Then build as normal
 
