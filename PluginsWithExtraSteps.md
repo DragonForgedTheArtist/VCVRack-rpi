@@ -97,16 +97,18 @@ Then build as normal
     make install
 
 ## RPJ
-RPG doesn't default to the v2 branch so it will need to be checked out
+RPG doesn't default to arm64 architeture
 
-    git clone --branch v2 https://github.com/kockie69/RPJ.git
+Check out as normal
 
-Then build as normal
+    git clone https://github.com/kockie69/RPJ.git
+
+Then build with extra flag
 
     cd RPJ
     git submodule update --init --recursive
     make dep
-    make
+    FLAGS=-DARCH_ARM64 make -j4
     make install
 
 ## stocaudio
