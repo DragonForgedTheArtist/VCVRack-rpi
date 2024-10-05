@@ -42,8 +42,9 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Coffee | Coffee | Compiles | https://github.com/CoffeeVCV/CoffeeVCV |
 | Comfortzone | Comfortzone | Compiles | https://github.com/hampa/comfortzone |
 | computerscare | computerscare| Compiles | https://github.com/freddyz/computerscare-vcv-modules |
-| CuteFox | CuteFox | Compiles | https://github.com/CuteFoxModules/CuteFoxModules |
 | Count Modula | Count Modula | Compiles | https://github.com/countmodula/VCVRackPlugins |
+| CuteFox | CuteFox | Compiles | https://github.com/CuteFoxModules/CuteFoxModules |
+| CV Funk | CV Funk | Compiles | https://github.com/codygeary/CVfunk-Modules |
 | cvly | cvly | Compiles | https://github.com/Lyqst/cvly-modules |
 | Daniel Davies | Daniel Davies | Compiles | https://github.com/danieldavies99/sequel |
 | dawn bree | dawn bree | Compiles | https://github.com/jonesnxt/dawnbree |
@@ -65,10 +66,13 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Glue the Giant | Glue the Giant | Compiles | https://github.com/gluethegiant/gtg-rack |
 | GoodSheperd | GoodSheperd | Compiles | https://github.com/jensschulze/GoodSheperd |
 | Grande | Grande | Compiles | https://github.com/dbgrande/GrandeModular |
+| Gwrthiant | Gwrthiant | Compiles | https://github.com/dustractor/gwrthiant |
 | H4N4 | H4N4 Modules | Compiles | https://github.com/hannakoppelaar/h4n4-modules |
 | Hampton Harmonics | Hampton Harmonics | Compiles | https://gitlab.com/hampton-harmonics/hampton-harmonics-modules |
 | HetrickCV | HetrickCV | Compiles | https://github.com/mhetrick/hetrickcv |
 | htLocal | htLocal | Compiles | https://github.com/HTlocal/VCV-Modules-HTLocal |
+| Hutara | Hutara | Compiles | https://github.com/hutara/Hutara-modules |
+| HydrangeaSystems | Calvario | Compiles | https://github.com/HydrangeaSystems/Calvario |
 | iggy.labs | iggy.labs | Compiles | https://github.com/isabelgk/IggyLabsModules |
 | Impromptu | Impromptu | Compiles | https://github.com/MarcBoule/ImpromptuModular/ |
 | Infrasonic Audio | Infrasonic Audio | Compiles | https://github.com/infrasonicaudio/Infrasonic-VCV |
@@ -151,7 +155,8 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | unless games | unless modules | Compiles | https://gitlab.com/unlessgames/unless_modules |
 | VCV | Fundamental | Working | https://github.com/VCVRack/Fundamental |
 | VCV | VCV Recorder | Workling | https://github.com/VCVRack/VCV-Recorder |
-|Valley|Valley|Compiles|https://github.com/ValleyAudio/ValleyRackFree|
+| VCV | E-Series | Compiles | https://github.com/VCVRack/ESeries |
+| Valley | Valley | Compiles | https://github.com/ValleyAudio/ValleyRackFree |
 | Venom | Venom | Compiles | https://github.com/DaveBenham/VenomModules |
 | Vitamin | Vitamin | Compiles | https://github.com/xaviershay/vitamin-vcv-modules |
 | Voxglitch | Voxglitch | Compiles | https://github.com/clone45/voxglitch |
