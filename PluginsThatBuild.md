@@ -139,7 +139,6 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | stoermelder | PackOne | Compiles | https://github.com/stoermelder/vcvrack-packone |
 | Strum's VCV Modules | Mental | Compiles | https://github.com/Strum/Strums_Mental_VCV_Modules |
 | Studio Six Plus One | Studio Six Plus One | Compiles | https://github.com/StudioSixPlusOne/rack-modules.git |
-| Submarine | Submarine | Compiles | https://library.vcvrack.com/SubmarineFree |
 | SV Modular | DrumKit | Compiles | https://github.com/SVModular/DrumKit |
 | SynthKit | SynthKit | Compiles | https://github.com/jerrysievert/synthkit/ |
 | T | T's Musical Tools | Compiles | https://github.com/Jadael/TMT |
