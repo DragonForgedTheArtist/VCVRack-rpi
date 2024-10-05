@@ -87,7 +87,6 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | LyraeModules | LyraeModules | Compiles | https://github.com/VegaDeftwing/LyraeModules |
 | Matrix Sequencer | Matrix Sequencer | Compiles | https://github.com/Retr0-code/Matrix-Sequncer |
 | MicMusic | MicMusic | Compiles | https://github.com/very-cool-name/MicMusic-VCV |
-| MindMeld | MindMeld | Compiles | https://github.com/MarcBoule/MindMeldModular |
 | ML Modules | ML Modules | Compiles | https://github.com/martin-lueders/ML_modules |
 | Mockba Modular | Mockba Modular | Compiles | https://github.com/MockbaTheBorg/MockbaModular |
 | moDllz | moDllz | Compiles | https://github.com/dllmusic/moDllz/tree/master/src |
