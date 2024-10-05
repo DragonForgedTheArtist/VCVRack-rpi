@@ -22,6 +22,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | AS | AS | Compiles | https://github.com/AScustomWorks/AS |
 | ÄSK | ÄSK | Compiles | https://github.com/pawal/ask-vcv-modules |
 | Atelier | Atelier | Compiles | https://github.com/Xenakios/Atelier |
+| Aunty Langton's | Aunty Langton's | Compiles | https://github.com/64MM4-KN1F3/AuntyLangtons-FREE-V2 |
 | Aura Audio | Aura Audio | Working | https://github.com/emurray2/auraaudio-vcv-rack |
 | Autinn | Autinn | Compiles | https://github.com/NikolaiVChr/Autinn |
 | Axioma | Axioma | Compiles | https://github.com/kauewerner/Axioma |
@@ -41,6 +42,7 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Coffee | Coffee | Compiles | https://github.com/CoffeeVCV/CoffeeVCV |
 | Comfortzone | Comfortzone | Compiles | https://github.com/hampa/comfortzone |
 | computerscare | computerscare| Compiles | https://github.com/freddyz/computerscare-vcv-modules |
+| CuteFox | CuteFox | Compiles | https://github.com/CuteFoxModules/CuteFoxModules |
 | Count Modula | Count Modula | Compiles | https://github.com/countmodula/VCVRackPlugins |
 | cvly | cvly | Compiles | https://github.com/Lyqst/cvly-modules |
 | Daniel Davies | Daniel Davies | Compiles | https://github.com/danieldavies99/sequel |
