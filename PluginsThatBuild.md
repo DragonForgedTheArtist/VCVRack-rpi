@@ -130,7 +130,6 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | Silly Sounds | Silly Sounds | Compiles | https://github.com/loparcog/SillySounds |
 | SIM | SIM | Compiles | https://github.com/imDanSable/SIM |
 | Skylander | Skylander | Compiles | https://github.com/theskylander/Skylander-plugins |
-| SmartGridMusic | TheAllElectricSmartGrid | Compiles | https://github.com/jvictor0/theallelectricsmartgrid |
 | Sonus Dept. | Sonus Modular | Compiles | https://gitlab.com/sonusdept/sonusmodular |
 | Sparkette's Stuff | Sparkette's Stuff | Compiles | https://github.com/flarn2006/SparketteVCV |
 | Squinky Labs | Squinky Labs | Compiles | https://github.com/kockie69/SquinkyVCV-main |
@@ -143,9 +142,9 @@ Audible Instruments | Audible Instruments | Compiles | https://github.com/VCVRac
 | SynthKit | SynthKit | Compiles | https://github.com/jerrysievert/synthkit/ |
 | T | T's Musical Tools | Compiles | https://github.com/Jadael/TMT |
 | TGA |  Chiptuner | Compiles  | https://github.com/The-Great-Assyr/Chiptuner |
+| The All Electric Smart Grid | TheAllElectricSmartGrid | Compiles | https://github.com/jvictor0/theallelectricsmartgrid |
 | TheModularMind | OSCelot | Compiles | https://github.com/The-Modular-Mind/oscelot |
 | Tiny Tricks | Tiny Tricks | Compiles | https://github.com/thomassidor/tinytricks |
-| trowaSoft | trowaSoft | Compiles | https://github.com/j4s0n-c/trowaSoft-VCV |
 | TyrannosaurusRu | TyrannosaurusRu | Compiles | https://github.com/fairplay/vcv-rack-plugins |
 | unless games | unless modules | Compiles | https://gitlab.com/unlessgames/unless_modules |
 | VCV | Fundamental | Working | https://github.com/VCVRack/Fundamental |
