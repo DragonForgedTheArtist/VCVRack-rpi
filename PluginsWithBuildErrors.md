@@ -12,3 +12,4 @@
 | Stellare Modular | Stellare Link | Fails | https://github.com/stellare-modular/vcv-link |
 | Submarine | Submarine | Fails | https://github.com/david-c14/SubmarineFree |
 | Surge XT | Surge XT | Fails | https://github.com/surge-synthesizer/surge-rack/ |
+| trowaSoft | trowaSoft | Not Showing In Library | https://github.com/j4s0n-c/trowaSoft-VCV |
