@@ -7,7 +7,6 @@
 | Bark | Coirt / Bark | Fails <xmmintrin.h> | https://github.com/Coirt/Bark |
 | cf | cf | Fails | https://github.com/cfoulc/cf |
 | Holonic Systems | Holonic Systems | Fails | https://github.com/hdavid/VCVRack-Holon.ist |
-| MindMeld | MindMeld | Segfaults in library | https://github.com/MarcBoule/MindMeldModular |
 | Mojo Modules |  Mojo Modules | Segfaults in library | https://github.com/tomdasilva/Mojo |
 | Stellare Modular | Stellare Link | Fails | https://github.com/stellare-modular/vcv-link |
 | Submarine | Submarine | Fails | https://github.com/david-c14/SubmarineFree |
